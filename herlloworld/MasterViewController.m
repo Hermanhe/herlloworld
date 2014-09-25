@@ -110,4 +110,8 @@
     }
 }
 
+- (IBAction)Buttonpressed:(id)sender {
+    int ntest = 0;
+    ntest = 1;
+}
 @end
